@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lilacarc
+- 👋 Hi, I’m @Lilarc
 - 👀 I’m interested in Python,MySQL- 
 - 🌱 I’m currently learning MySQL and Python...
 
